@@ -521,7 +521,7 @@ end
 --Get mouse input
 function get_input()
     event, side, xClick, yClick = os.pullEvent("monitor_touch")
-    bigfont.writeOn(term, 1, event, 2, 2, colors.white)
+
     clicked = true
     clickX = xClick
     clickY = yClick
