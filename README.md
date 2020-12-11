@@ -1,5 +1,7 @@
 # Trivia Unite
- A trivia game made for ComputerCraft. Powered by [OpenTDB](https://opentdb.com/).
+ A trivia game made in ComputerCraft designed for 1 player. Powered by [OpenTDB](https://opentdb.com/).
+ 
+ For multiplayer, check out [Trivia Unite Together](https://github.com/cklidify/CCTriviaUniteTogether)
  
  ![Showcase](/screenshots/showcase.gif)
  
