@@ -13,12 +13,18 @@
  The quicker you answer, the more points you receive. Try to go for the highest score!
 
 ## Installation
- First you must create a setup similar to the image below (Position of monitor and speaker does not matter)
+ If you wish to play with a monitor/speaker setup, you should create a setup similar to the image below (Position of monitor and speaker does not matter)
  
  ![Guide](/screenshots/setup.png)
  
- Then enter the Advanced Computer, and enter `pastebin get GbHn0SkY triviaunite` into the terminal.
+ Then enter the Advanced Computer, and enter `pastebin run iEWa7wQ6` into the terminal.
  
- Once it's been downloaded to your Computer, run the installer by entering `triviaunite` into the terminal.
- Your computer will download all the neccessary APIs, Images, and LUA files, and automatically reboot when it's done.
- After your Computer reboots, the monitor should now show the game and become fully functional!
+ Once it's been installed to your Computer, run the game by entering `triviaunite` into the terminal.
+ 
+ ## Startup Script
+ 
+ If you want the game to boot with the computer, create a new startup file by entering `edit startup.lua` and then enter the following code:
+ 
+ ```lua
+ shell.run("triviaunite")
+ ```
