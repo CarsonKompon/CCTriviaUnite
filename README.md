@@ -17,7 +17,7 @@
  
  ![Guide](/screenshots/setup.png)
  
- Then enter the Advanced Computer, and enter `pastebin run iEWa7wQ6` into the terminal.
+ Then enter the Advanced Computer, and enter `pastebin run czuQVY5F` into the terminal.
  
  Once it's been installed to your Computer, run the game by entering `triviaunite` into the terminal.
  

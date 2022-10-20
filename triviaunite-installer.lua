@@ -3,7 +3,7 @@
 --Create folder structure
 shell.run("mkdir .triviaunite")
 shell.run("mkdir .triviaunite/dependencies")
-shell.run("mkdir .triviaunite/json")
+shell.run("mkdir .triviaunite/images")
 
 --Download required APIs
 shell.run("wget https://raw.githubusercontent.com/cklidify/CCTriviaUnite/main/.triviaunite/dependencies/bigfont.lua .triviaunite/dependencies/bigfont")
@@ -20,4 +20,4 @@ shell.run("wget https://raw.githubusercontent.com/cklidify/CCTriviaUnite/main/.t
 shell.run("wget https://raw.githubusercontent.com/cklidify/CCTriviaUnite/main/triviaunite.lua triviaunite")
 
 --Reboot Computer
-print("Trivia Unite &3installed successfully!")
+print("Trivia Unite installed successfully!")
